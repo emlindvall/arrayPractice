@@ -23,3 +23,14 @@ console.log(amountEaten);
 //Unshift method will replace the last element of the array false with element true
 wasItGood.unshift(true);
 console.log(wasItGood);
+
+
+
+
+//In the above array, "pickles" is in index position 0, which means that "dolmades" is in index position 4
+//Here's a haiku about index positions:
+    // index positions
+    // why do they start with 0?
+    // to annoy us all
+
+    
